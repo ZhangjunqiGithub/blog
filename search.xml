@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
+      <title>MySQL常见问题</title>
       <link href="/blog/2022/12/10/MySQL%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
       <url>/blog/2022/12/10/MySQL%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<hr><p>title:MySQL常见问题<br>categories:MySQL常见问题<br>tags:MySQL<br>date:2022/12/10<br>cover:<a href="https://img.sj33.cn/uploads/allimg/201402/7-14022H14522550.png">https://img.sj33.cn/uploads/allimg/201402/7-14022H14522550.png</a></p><hr><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alter table 表名 AUTO_INCREMENT=N;#(N:下一次添加数据是主键id就是N+1，并依次递增)</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alter table 表名 AUTO_INCREMENT=N;#(N:下一次添加数据是主键id就是N+1，并依次递增)</span><br></pre></td></tr></table></figure>]]></content>
       
       
+      <categories>
+          
+          <category> MySQL常见问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
       
     </entry>
     
