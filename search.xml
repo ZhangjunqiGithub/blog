@@ -8,7 +8,7 @@
       <link href="/blog/2022/12/10/MySQL%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
       <url>/blog/2022/12/10/MySQL%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<h4 id="1、设置数据库主键自动递增的位置"><a href="#1、设置数据库主键自动递增的位置" class="headerlink" title="1、设置数据库主键自动递增的位置"></a>1、设置数据库主键自动递增的位置</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alter table 表名 AUTO_INCREMENT=N;#(N:下一次添加数据是主键id就是N+1，并依次递增)</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h3 id="1、设置数据库主键自动递增的位置"><a href="#1、设置数据库主键自动递增的位置" class="headerlink" title="1、设置数据库主键自动递增的位置"></a>1、设置数据库主键自动递增的位置</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alter table 表名 AUTO_INCREMENT=N;#(N:下一次添加数据是主键id就是N+1，并依次递增)</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
