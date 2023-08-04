@@ -196,14 +196,14 @@
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/tags/Linux%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://www.zhangjq.xyz/tags/SpringBoot%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/tags/SpringBoot%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.zhangjq.xyz/tags/Linux%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -225,13 +225,6 @@
   
   <url>
     <loc>https://www.zhangjq.xyz/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2023-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zhangjq.xyz/tags/node-js%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -266,7 +259,7 @@
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <loc>https://www.zhangjq.xyz/tags/node-js%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -280,6 +273,13 @@
   </url>
   
   <url>
+    <loc>https://www.zhangjq.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.zhangjq.xyz/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -287,14 +287,14 @@
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/tags/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.zhangjq.xyz/tags/algorithm/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/tags/algorithm/</loc>
+    <loc>https://www.zhangjq.xyz/tags/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -317,14 +317,14 @@
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/categories/Linux%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://www.zhangjq.xyz/categories/SpringBoot%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/categories/SpringBoot%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.zhangjq.xyz/categories/Linux%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -346,13 +346,6 @@
   
   <url>
     <loc>https://www.zhangjq.xyz/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2023-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zhangjq.xyz/categories/node-js%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -387,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <loc>https://www.zhangjq.xyz/categories/node-js%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -401,6 +394,13 @@
   </url>
   
   <url>
+    <loc>https://www.zhangjq.xyz/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.zhangjq.xyz/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -408,14 +408,14 @@
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/categories/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.zhangjq.xyz/categories/%E7%AE%97%E6%B3%95%E9%A2%98%E7%9B%AE/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.zhangjq.xyz/categories/%E7%AE%97%E6%B3%95%E9%A2%98%E7%9B%AE/</loc>
+    <loc>https://www.zhangjq.xyz/categories/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
