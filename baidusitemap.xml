@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zhangjq.xyz/2023/03/18/git%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2024-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.zhangjq.xyz/2023/03/14/node.js%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-01-17</lastmod>
+  </url>
+  <url>
     <loc>https://www.zhangjq.xyz/2023/10/01/TypeScript/</loc>
     <lastmod>2024-01-17</lastmod>
   </url>
   <url>
     <loc>https://www.zhangjq.xyz/2023/11/14/Docker%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2024-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.zhangjq.xyz/2023/03/14/node.js%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2024-01-14</lastmod>
   </url>
   <url>
@@ -62,10 +66,6 @@
   </url>
   <url>
     <loc>https://www.zhangjq.xyz/2023/03/18/hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2023-03-18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.zhangjq.xyz/2023/03/18/git%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2023-03-18</lastmod>
   </url>
   <url>
