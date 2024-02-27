@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zhangjq.xyz/2023/03/12/Vue2+Vue3%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-02-27</lastmod>
+  </url>
+  <url>
     <loc>https://www.zhangjq.xyz/2023/03/18/git%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2024-01-24</lastmod>
   </url>
@@ -59,10 +63,6 @@
   <url>
     <loc>https://www.zhangjq.xyz/2023/03/12/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%B4%AD%E4%B9%B0%E5%92%8C%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2023-06-20</lastmod>
-  </url>
-  <url>
-    <loc>https://www.zhangjq.xyz/2023/03/12/Vue2+Vue3%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2023-06-05</lastmod>
   </url>
   <url>
     <loc>https://www.zhangjq.xyz/2023/03/18/hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
