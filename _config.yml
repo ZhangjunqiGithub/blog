@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 技术分享讨论栈
+title: 编程分享讨论栈
 subtitle: ''
 description: ''
 keywords:
@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://advanced-xiaobai.gitee.io/blog
-root: /blog/
+url: https://www.zhangjq.xyz
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -112,3 +112,13 @@ algolia:
   applicationID: 'DOUQTLBQKA'
   apiKey: 'a9673e873d0aa7a0ce75624b7fb70120'
   indexName: 'my_hexo_blog'
+
+Plugins:
+- hexo-generator-baidu-sitemap
+- hexo-generator-sitemap
+
+baidusitemap:
+    path: baidusitemap.xml
+
+sitemap:
+    path: sitemap.xml
